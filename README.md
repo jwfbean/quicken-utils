@@ -2,7 +2,7 @@
 
 ## Problem
 
-Apple Card transaction export to CSV doesn't match required format for Quicken import CSV. 
+Apple Card "export transactions to CSV" doesn't produce a file that matches the column names and order that Quicken requires to import transactions from a CSV.  
 
 ### Manual usage
 
