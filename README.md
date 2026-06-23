@@ -10,7 +10,7 @@ Apple Card "export transactions to CSV" doesn't produce a file that matches the 
 
 1. **`apple_to_quicken.py`**: Converts CSV output from Apple Card export to Quicken required CSV import format. Clears out default categories to let Quicken handle assignments locally.
 
-`python apple_to_quicken.py transaction-export quicken-import`
+`python apple_to_quicken.py <transaction-export-csv-file> <quicken-import-csv-file>`
 
 #### Automated usage
 
