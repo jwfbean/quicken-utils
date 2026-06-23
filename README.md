@@ -1,4 +1,4 @@
-# Apple Card CSV export to Quicken import
+# Apple Card CSV export to Quicken CSV import
 
 ## Problem
 
