@@ -1,6 +1,6 @@
 # Jeff's Quicken Utils
 
-# Apple Card CSV export to Quicken CSV import
+## Apple Card CSV export to Quicken CSV import
 
 ### Problem
 
